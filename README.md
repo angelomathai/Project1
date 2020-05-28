@@ -14,9 +14,9 @@ Functions that still need to added
 1. Follow/Unfollow button on users profile.
 2. To display profile photo and user bio in user profile.
 3. Add comments to post on timeline(at the moment user can only view comments since its hardcoded in database).
-4. Get realtime notification in liking a post.
+4. Get realtime notification on liking a post.
 5. A webpage to view trending topics based on hashtags.
-6. Close the searchbox when no input is null or user clicks outside the searchbox area.
+6. Close the searchbox when the input is null or user clicks outside the searchbox area.
  
 
 ![Screenshot 2020-05-28 at 16 59 34](https://user-images.githubusercontent.com/44797251/83136309-de50cd80-a104-11ea-8108-d41c48e21829.png)
